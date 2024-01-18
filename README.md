@@ -2,4 +2,4 @@
 
 ## Roboticist
 
-### Master Thesis bei Bosch Research
+### Fachhochchule Dortmund | Bosch Research
